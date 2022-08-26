@@ -1,0 +1,42 @@
+c:\users\administrator\documents\visual studio 2012\Projects\steeltools\steelbox\bin\Debug\steelbox.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\steeltools\steelbox\bin\Debug\steelbox.exe
+c:\users\administrator\documents\visual studio 2012\Projects\steeltools\steelbox\bin\Debug\steelbox.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\steeltools\steelbox\obj\Debug\steelbox.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\steeltools\steelbox\obj\Debug\steelbox.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\steeltools\steelbox\obj\Debug\steelbox.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\steeltools\steelbox\obj\Debug\steelbox.exe
+c:\users\administrator\documents\visual studio 2012\Projects\steeltools\steelbox\obj\Debug\steelbox.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\steeltools\steelbox\obj\Debug\steelbox.FormMain.resources
+c:\users\administrator\documents\visual studio 2012\Projects\steeltools\steelbox\obj\Debug\steelbox.FormWelcome.resources
+c:\users\administrator\documents\visual studio 2012\Projects\steeltools\steelbox\obj\Debug\steelbox.FormSectionCircle.resources
+c:\users\administrator\documents\visual studio 2012\Projects\steeltools\steelbox\obj\Debug\steelbox.FormSectionH.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\steeltools\steelbox\obj\Debug\steelbox.FormSectionBox.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\steeltools\steelbox\obj\Debug\steelbox.FormStressGradient.resources
+C:\Users\Administrator\Desktop\MyWork\BaiduNetdiskWorkspace\steeltools\steelbox\bin\Debug\steelbox.exe.config
+C:\Users\Administrator\Desktop\MyWork\BaiduNetdiskWorkspace\steeltools\steelbox\obj\Debug\steelbox.exe
+C:\Users\Administrator\Desktop\MyWork\BaiduNetdiskWorkspace\steeltools\steelbox\obj\Debug\steelbox.pdb
+C:\Users\Administrator\Desktop\MyWork\BaiduNetdiskWorkspace\steeltools\steelbox\bin\Debug\steelbox.exe
+C:\Users\Administrator\Desktop\MyWork\BaiduNetdiskWorkspace\steeltools\steelbox\bin\Debug\steelbox.pdb
+C:\Users\Administrator\Desktop\MyWork\BaiduNetdiskWorkspace\steeltools\steelbox\obj\Debug\steelbox.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MyWork\BaiduNetdiskWorkspace\steeltools\steelbox\obj\Debug\steelbox.FormWelcome.resources
+C:\Users\Administrator\Desktop\MyWork\BaiduNetdiskWorkspace\steeltools\steelbox\obj\Debug\steelbox.FormMain.resources
+C:\Users\Administrator\Desktop\MyWork\BaiduNetdiskWorkspace\steeltools\steelbox\obj\Debug\steelbox.FormSectionCircle.resources
+C:\Users\Administrator\Desktop\MyWork\BaiduNetdiskWorkspace\steeltools\steelbox\obj\Debug\steelbox.FormSectionH.resources
+C:\Users\Administrator\Desktop\MyWork\BaiduNetdiskWorkspace\steeltools\steelbox\obj\Debug\steelbox.FormSectionBox.resources
+C:\Users\Administrator\Desktop\MyWork\BaiduNetdiskWorkspace\steeltools\steelbox\obj\Debug\steelbox.FormStressGradient.resources
+C:\Users\Administrator\Desktop\MyWork\BaiduNetdiskWorkspace\steeltools\steelbox\obj\Debug\steelbox.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MyWork\BaiduNetdiskWorkspace\steeltools\steelbox\obj\Debug\steelbox.csproj.GenerateResource.Cache
+F:\BaiduNetdiskWorkspace\steeltools\steelbox\bin\Debug\steelbox.exe.config
+F:\BaiduNetdiskWorkspace\steeltools\steelbox\obj\Debug\steelbox.exe
+F:\BaiduNetdiskWorkspace\steeltools\steelbox\obj\Debug\steelbox.pdb
+F:\BaiduNetdiskWorkspace\steeltools\steelbox\bin\Debug\steelbox.exe
+F:\BaiduNetdiskWorkspace\steeltools\steelbox\bin\Debug\steelbox.pdb
+F:\BaiduNetdiskWorkspace\steeltools\steelbox\obj\Debug\steelbox.csprojResolveAssemblyReference.cache
+F:\BaiduNetdiskWorkspace\steeltools\steelbox\obj\Debug\steelbox.FormWelcome.resources
+F:\BaiduNetdiskWorkspace\steeltools\steelbox\obj\Debug\steelbox.FormMain.resources
+F:\BaiduNetdiskWorkspace\steeltools\steelbox\obj\Debug\steelbox.FormSectionCircle.resources
+F:\BaiduNetdiskWorkspace\steeltools\steelbox\obj\Debug\steelbox.FormSectionH.resources
+F:\BaiduNetdiskWorkspace\steeltools\steelbox\obj\Debug\steelbox.FormSectionBox.resources
+F:\BaiduNetdiskWorkspace\steeltools\steelbox\obj\Debug\steelbox.FormStressGradient.resources
+F:\BaiduNetdiskWorkspace\steeltools\steelbox\obj\Debug\steelbox.Properties.Resources.resources
+F:\BaiduNetdiskWorkspace\steeltools\steelbox\obj\Debug\steelbox.csproj.GenerateResource.Cache

@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D27C3530-6653-4691-ACF8-4000EC24C8AC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>steelbox</RootNamespace>
+    <AssemblyName>steelbox</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AxisForce.cs" />
+    <Compile Include="BlendPlusAxisF.cs" />
+    <Compile Include="Bolt.cs" />
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSectionCircle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSectionCircle.Designer.cs">
+      <DependentUpon>FormSectionCircle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSectionH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSectionH.Designer.cs">
+      <DependentUpon>FormSectionH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSectionBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSectionBox.Designer.cs">
+      <DependentUpon>FormSectionBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormStressGradient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormStressGradient.Designer.cs">
+      <DependentUpon>FormStressGradient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Blending.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Q235.cs" />
+    <Compile Include="Q345.cs" />
+    <Compile Include="Q390.cs" />
+    <Compile Include="Q420.cs" />
+    <Compile Include="Q460.cs" />
+    <Compile Include="SecondaryMoment.cs" />
+    <Compile Include="SectionBox.cs" />
+    <Compile Include="SectionCircle.cs" />
+    <Compile Include="SectionClass.cs" />
+    <Compile Include="SectionH.cs" />
+    <Compile Include="ForceType.cs" />
+    <Compile Include="SteelGrade.cs" />
+    <Compile Include="StressGradient.cs" />
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSectionCircle.resx">
+      <DependentUpon>FormSectionCircle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSectionH.resx">
+      <DependentUpon>FormSectionH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSectionBox.resx">
+      <DependentUpon>FormSectionBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormStressGradient.resx">
+      <DependentUpon>FormStressGradient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Drawing1-h.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Drawing1-Model1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Drawing1-Model2.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

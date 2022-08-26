@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BoltSteel>
+	<BoltGrade name="M4.6Ccomman">
+		<ftb>170</ftb>
+		<fvb>140</fvb>
+		<fcb name="Q235">305</fcb>
+		<fcb name="Q345">385</fcb>
+		<fcb name="Q390">400</fcb>
+		<fcb name="Q420">425</fcb>
+		<fcb name="Q460">450</fcb>
+		<fcb name="Q345GJ">400</fcb>
+	</BoltGrade>
+	<BoltGrade name="M4.8Ccomman">
+		<ftb>170</ftb>
+		<fvb>140</fvb>
+		<fcb name="Q235">305</fcb>
+		<fcb name="Q345">385</fcb>
+		<fcb name="Q390">400</fcb>
+		<fcb name="Q420">425</fcb>
+		<fcb name="Q460">450</fcb>
+		<fcb name="Q345GJ">400</fcb>
+	</BoltGrade>
+	<BoltGrade name="M5.6Acomman">
+		<ftb>210</ftb>
+		<fvb>190</fvb>
+		<fcb name="Q235">405</fcb>
+		<fcb name="Q345">510</fcb>
+		<fcb name="Q390">530</fcb>
+		<fcb name="Q420">560</fcb>
+		<fcb name="Q460">595</fcb>
+		<fcb name="Q345GJ">530</fcb>
+	</BoltGrade>
+	<BoltGrade name="M5.6Bcomman">
+		<ftb>210</ftb>
+		<fvb>190</fvb>
+		<fcb name="Q235">305</fcb>
+		<fcb name="Q345">385</fcb>
+		<fcb name="Q390">400</fcb>
+		<fcb name="Q420">425</fcb>
+		<fcb name="Q460">450</fcb>
+		<fcb name="Q345GJ">400</fcb>
+	</BoltGrade>
+	<BoltGrade name="M8.8Acomman">
+		<ftb>400</ftb>
+		<fvb>320</fvb>
+		<fcb name="Q235">305</fcb>
+		<fcb name="Q345">385</fcb>
+		<fcb name="Q390">400</fcb>
+		<fcb name="Q420">425</fcb>
+		<fcb name="Q460">450</fcb>
+		<fcb name="Q345GJ">400</fcb>
+	</BoltGrade>
+	<BoltGrade name="M8.8Bcomman">
+		<ftb>400</ftb>
+		<fvb>320</fvb>
+		<fcb name="Q235">305</fcb>
+		<fcb name="Q345">385</fcb>
+		<fcb name="Q390">400</fcb>
+		<fcb name="Q420">425</fcb>
+		<fcb name="Q460">450</fcb>
+		<fcb name="Q345GJ">400</fcb>
+	</BoltGrade>
+	<BoltGrade name="M8.8Hpress">
+		<ftb>400</ftb>
+		<fvb>250</fvb>
+		<fcb name="Q235">470</fcb>
+		<fcb name="Q345">590</fcb>
+		<fcb name="Q390">615</fcb>
+		<fcb name="Q420">655</fcb>
+		<fcb name="Q460">695</fcb>
+		<fcb name="Q345GJ">615</fcb>
+	</BoltGrade>
+	<BoltGrade name="M10.9Hpress">
+		<ftb>500</ftb>
+		<fvb>310</fvb>
+		<fcb name="Q235">470</fcb>
+		<fcb name="Q345">590</fcb>
+		<fcb name="Q390">615</fcb>
+		<fcb name="Q420">655</fcb>
+		<fcb name="Q460">695</fcb>
+		<fcb name="Q345GJ">615</fcb>
+	</BoltGrade>
+	
+</BoltSteel>
